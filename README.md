@@ -55,4 +55,12 @@ pip install -r requirements.txt
 Running the App
 Once dependencies are installed, start the app using Streamlit:
 streamlit run app.py
+📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute it with attribution.
+
+✍️ Author
+Jaynil Patel
+GitHub: https://github.com/Jaypat20
+
 
