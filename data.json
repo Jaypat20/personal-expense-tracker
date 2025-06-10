@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2025-06-03",
+        "category": "Shopping",
+        "amount": 150.0,
+        "description": "Buy cloths and shoes "
+    },
+    {
+        "date": "2025-06-07",
+        "category": "Transport",
+        "amount": 100.0,
+        "description": "Spent on Traveling from home to university"
+    },
+    {
+        "date": "2025-06-09",
+        "category": "Bills",
+        "amount": 100.0,
+        "description": "Paid internet bill"
+    }
+]
